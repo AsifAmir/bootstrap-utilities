@@ -1,2 +1,2 @@
 # bootstrap-utilities
-all types of utilities classes
+https://asifamir.github.io/bootstrap-utilities/
